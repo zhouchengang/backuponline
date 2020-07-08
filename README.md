@@ -1,5 +1,5 @@
 # backuponline
-<br /> This Android App allow you to backup your media files(Audio, Video, Image) to your server
+<br /> This Android App allows you to backup your media files(Audio, Video, Image) to your server
 <br /> 这是一个能让你将手机上的音频视频图片文件备份到Centos 服务器上的安卓应用
 
 <br /> put File "http.js" and "init.sh" in same folder on your Centos server,
